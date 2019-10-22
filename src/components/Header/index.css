@@ -1,0 +1,11 @@
+div#Header{
+  padding:1px 50px;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgb(18, 139, 219);
+  color: #fff;
+  margin-bottom: 10px;
+}
