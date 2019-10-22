@@ -7,5 +7,16 @@ div#Header{
   font-family: Arial, Helvetica, sans-serif;
   background: rgb(18, 139, 219);
   color: #fff;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
+}
+div#Header img{
+  height:30px;
+}
+div#Perfil{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+div#Perfil h4{
+  margin-right:15px;
 }
